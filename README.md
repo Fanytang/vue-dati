@@ -1,7 +1,7 @@
 # happy-demo
 
 > Funny demo
-在线演示地址demo[https://fanytang.github.io/vue-dati].
+在线演示地址 [demo](https://fanytang.github.io/vue-dati).
 
 ## Build Setup
 
@@ -16,4 +16,4 @@ npm run dev
 npm run build
 ```
 
-用vue+vuex+vue-router写的一个小型答题demo.
+用vue+vuex+vue-router写的一个小型答题项目,适合入门.
