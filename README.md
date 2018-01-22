@@ -16,4 +16,4 @@ npm run dev
 npm run build
 ```
 
-用vue+vuex+vue-router写的一个小型答题项目,适合入门.
+用vue+vuex+vue-router+vue-cli webpack-simple写的一个小型答题项目,适合入门.
