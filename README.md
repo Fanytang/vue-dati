@@ -1,6 +1,7 @@
 # happy-demo
 
 > Funny demo
+在线演示地址demo[https://fanytang.github.io/vue-dati].
 
 ## Build Setup
 
@@ -15,4 +16,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+用vue+vuex+vue-router写的一个小型答题demo.
