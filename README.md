@@ -1,4 +1,4 @@
-# happy-demo
+# Funny-demo
 
 > Funny demo
 在线演示地址 [demo](https://fanytang.github.io/vue-dati).
