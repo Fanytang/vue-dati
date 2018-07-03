@@ -3,7 +3,7 @@
 > Funny demo
 在线演示地址 [demo](https://fanytang.github.io/vue-dati).
 
-## Build Setup
+## 运行步骤
 
 ``` bash
 # install dependencies
@@ -16,4 +16,4 @@ npm run dev
 npm run build
 ```
 
-用vue+vuex+vue-router+vue-cli webpack-simple写的一个小型答题项目,适合入门.
+用vue+vuex+vue-router+vue-cli webpack-simple写的一个小型答题项目.
